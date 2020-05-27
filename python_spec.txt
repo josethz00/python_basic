@@ -1,0 +1,15 @@
+in - is an operator in python, to verify some values
+
+if province in('São Paulo', 'Rio de Janeiro', 'Minas Gerais', 'Distrito Federal'):
+    print('Take care, you're on a risky area of Corona Virus)
+
+
+in python language, the boolean variable is non-typed, but the value has to be Capitalized(True or False), not "true" or "false"
+
+
+pip install virtualenv
+python -m venv <folder_name>
+.\venv\Scripts\activate.ps1
+
+
+pip install --upgrade pip
